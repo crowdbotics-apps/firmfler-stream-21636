@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import Dashboard225147132Navigator from '../features/Dashboard225147132/navigator';
 import EmailAuth26147131Navigator from '../features/EmailAuth26147131/navigator';
-import Settings27147130Navigator from '../features/Settings27147130/navigator';
 import SignUp128147129Navigator from '../features/SignUp128147129/navigator';
 import SignIn21146729Navigator from '../features/SignIn21146729/navigator';
 import UserProfile2146728Navigator from '../features/UserProfile2146728/navigator';
@@ -24,7 +23,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 Dashboard225147132: { screen: Dashboard225147132Navigator },
 EmailAuth26147131: { screen: EmailAuth26147131Navigator },
-Settings27147130: { screen: Settings27147130Navigator },
 SignUp128147129: { screen: SignUp128147129Navigator },
 SignIn21146729: { screen: SignIn21146729Navigator },
 UserProfile2146728: { screen: UserProfile2146728Navigator },
